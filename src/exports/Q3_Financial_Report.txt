@@ -1,0 +1,7 @@
+=== PDF DOCUMENT (rendered by iText) ===
+
+Q3 Financial Report -- Board Edition
+
+--- Page 1 of 1 ---
+[Rendered as PDF: margins, fonts, and layout applied]
+[iText engine: paragraphs, headings, page numbers embedded]

@@ -1,0 +1,6 @@
+=== WORD DOCUMENT (rendered by Apache POI) ===
+
+Project Proposal -- Draft v2
+
+[Rendered as .docx: styles, headings, and paragraph spacing applied]
+[Apache POI engine: XWPFDocument structure generated]

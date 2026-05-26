@@ -1,0 +1,6 @@
+id,date,description,amount,status
+1001,2024-10-01,"Customer transactions -- October 2024",1500.00,completed
+1002,2024-10-03,Software licence renewal,299.99,completed
+1003,2024-10-07,Cloud infrastructure invoice,4200.00,pending
+1004,2024-10-15,Contractor payment — UX design,1800.00,completed
+1005,2024-10-22,Office supplies,143.50,completed
