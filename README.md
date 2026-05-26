@@ -27,7 +27,7 @@ for /r %f in (*.java) do javac -d out %f
 java -cp out Main
 ```
 
-No external libraries or build tools required — plain Java 11+.
+No external libraries or build tools required — plain Java 11+. It can be run without any additional dependency.
 
 ## Project structure
 
