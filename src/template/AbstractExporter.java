@@ -1,3 +1,4 @@
+//necessary imports
 package template;
 
 import strategy.RenderingStrategy;
