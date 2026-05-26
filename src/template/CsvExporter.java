@@ -8,6 +8,7 @@ public class CsvExporter extends AbstractExporter {
         super(renderingStrategy);
     }
 
+    // Returns the export format name
     @Override
     public String getFormatLabel() { return "CSV"; }
 }
